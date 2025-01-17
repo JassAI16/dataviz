@@ -11,7 +11,7 @@ source ~/.code/bin/activate OR source ~/.code/Scripts/activate
 
 
 ## make new files
-touch Makefile
-touch requirements.txt
-touch test_hello.py
-touch hello.py
+*touch Makefile
+*touch requirements.txt
+*touch test_hello.py
+*touch hello.py
