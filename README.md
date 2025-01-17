@@ -7,9 +7,11 @@ This is a new portofolio project
 * Setup a virtualenv: 'virtualenv ~/.code'
 
 ## to activate that virtualenv
-source ~/.code/bin/activate
-        ##OR
-source ~/.code/Scripts/activate
+source ~/.code/bin/activate OR source ~/.code/Scripts/activate
+
+
+## make new files
 touch Makefile
 touch requirements.txt
 touch test_hello.py
+touch hello.py
